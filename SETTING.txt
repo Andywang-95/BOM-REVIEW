@@ -1,0 +1,3 @@
+//gctfile.gigacomputing.intra/NR2B/NR2B6/共用資料區/BOM DATABASE
+C
+7
